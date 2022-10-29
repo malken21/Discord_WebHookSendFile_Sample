@@ -1,0 +1,2 @@
+# Discord_WebHookSendFile_Sample
+Discordのウェブフックでメッセージとファイルを同時に送信するサンプル
